@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BrennanBPainter.iml" filepath="$PROJECT_DIR$/BrennanBPainter.iml" />
+      <module fileurl="file://C:\Users\thebr\Hrs cs\BrennanBPainter\PaintIncomplete.iml" filepath="C:\Users\thebr\Hrs cs\BrennanBPainter\PaintIncomplete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S2 Lab1-Painter.iml" filepath="$PROJECT_DIR$/S2 Lab1-Painter.iml" />
+      <module fileurl="file://C:\Users\thebr\Hrs cs\BrennanBPainter\S2 Lab1-Painter.iml" filepath="C:\Users\thebr\Hrs cs\BrennanBPainter\S2 Lab1-Painter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
